@@ -1,4 +1,5 @@
-    cognito: {
+window._config = {
+cognito: {
         userPoolId: 'us-east-1_VlBDGSnXi', // e.g. us-east-2_uXboG5pAb
         userPoolClientId: 'jk72g8en51rt0qeiucrrg5i45', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'us-east-1' // e.g. us-east-2
